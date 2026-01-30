@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 Welcome to my GitHub!
 
-<!--
-**Piyush-Rwt/Piyush-Rwt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Developer & CS Student** 🚀
+🎓 B.Tech CSE @ Graphic Era Hill University, Dehradun  
+💻 Passionate about Machine Learning & Deep Learning
 
-Here are some ideas to get you started:
+Hi, I'm a Computer Science student interested in  
+**DSA, Backend Development, and Machine Learning**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Skills
+- C, Python, SQL 
+- Data Structures & Algorithms  
+- Flask, Node.js  
+- MySQL, Git & GitHub  
+
+## 📌 Projects
+- 🧮 Monte Carlo Risk Simulation  
+- 🧩 Crossword Puzzle Game  
+- 🍽️ Online Food Monitoring System  
+
+## 🌱 Currently Learning
+- Advanced DSA  
+- System Design Basics  
+- Core ML/DL concepts
+
+⭐ Feel free to explore my repositories!
