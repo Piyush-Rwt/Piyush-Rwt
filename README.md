@@ -23,7 +23,9 @@ Hi, I'm a Computer Science student interested in
 - System Design Basics  
 - Core ML/DL concepts
 
-⭐ Feel free to explore my repositories!
-##📫 Connect With Me
+
+## 📫 Connect With Me
 💼 LinkedIn: https://www.linkedin.com/in/piyush-rawat-/
 📧 Email: piyushrawat989@gmail.com
+
+⭐ Feel free to explore my repositories!
