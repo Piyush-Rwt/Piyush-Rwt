@@ -24,3 +24,6 @@ Hi, I'm a Computer Science student interested in
 - Core ML/DL concepts
 
 ⭐ Feel free to explore my repositories!
+##📫 Connect With Me
+💼 LinkedIn: https://www.linkedin.com/in/piyush-rawat-/
+📧 Email: piyushrawat989@gmail.com
