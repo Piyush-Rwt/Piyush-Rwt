@@ -8,15 +8,18 @@ Hi, I'm a Computer Science student interested in
 **DSA, Backend Development, and Machine Learning**.
 
 ## 🔧 Skills
-- C, Python, SQL 
+- C, Python, SQL ,C++
 - Data Structures & Algorithms  
-- Flask, Node.js  
-- MySQL, Git & GitHub  
+- MySQL, Git & GitHub
+- Machine Learning
 
 ## 📌 Projects
-- 🧮 Monte Carlo Risk Simulation  
-- 🧩 Crossword Puzzle Game  
-- 🍽️ Online Food Monitoring System  
+
+* 🧮 **Monte Carlo Risk Simulation**
+* 🧩 **Crossword Puzzle Game**
+* 🍽️ **Online Food Monitoring System**
+* 🤟 **Indian Sign Language Detection System**
+* 
 
 ## 🌱 Currently Learning
 - Advanced DSA  
