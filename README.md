@@ -25,7 +25,9 @@ Hi, I'm a Computer Science student interested in
 
 
 ## 📫 Connect With Me
-💼 LinkedIn: https://www.linkedin.com/in/piyush-rawat-/
-📧 Email: piyushrawat989@gmail.com
+
+* 💼 **LinkedIn:** https://www.linkedin.com/in/piyush-rawat-/
+* 💻 **LeetCode:** https://leetcode.com/u/Piyush0313/
+* 📧 **Email:** [piyushrawat989@gmail.com](mailto:piyushrawat989@gmail.com)
 
 ⭐ Feel free to explore my repositories!
